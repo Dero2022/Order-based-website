@@ -71,10 +71,8 @@ document.querySelector('.js-product-grid')
 
       return cartQuantity;
     }
-
-
-
-       
+    
+    
 
 document.querySelectorAll('.js-add-to-cart')
    .forEach((button) => {
